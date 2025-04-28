@@ -4,8 +4,9 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Links
 
-- Solution URL: [https://github.com/fazliddin8515/fm-blog-preview-card](https://github.com/fazliddin8515/fm-blog-preview-card)
+- Solution URL: [https://www.frontendmentor.io/solutions/blog-preview-card-sZJWDh4x5m](https://www.frontendmentor.io/solutions/blog-preview-card-sZJWDh4x5m)
 - Live Site URL: [https://fazliddin8515.github.io/fm-blog-preview-card](https://fazliddin8515.github.io/fm-blog-preview-card)
+- Source Code URL: [https://github.com/fazliddin8515/fm-blog-preview-card](https://github.com/fazliddin8515/fm-blog-preview-card)
 
 ## My process
 
