@@ -15,7 +15,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Relative css units
-- BEM methodology
+- CUBE CSS methodology
 
 ### Useful resources
 
