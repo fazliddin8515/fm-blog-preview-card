@@ -147,3 +147,13 @@ picture {
     border-radius: 50%;
   }
 }
+
+.label {
+  background-color: var(--yellow);
+  color: var(--gray-950);
+  font-size: var(--text-preset-3);
+  font-weight: 800;
+  padding: var(--space-50) var(--space-150);
+  border-radius: var(--radius-xs);
+  width: fit-content;
+}
