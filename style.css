@@ -83,6 +83,14 @@ picture {
   margin-block-start: var(--flow-space, var(--space-300));
 }
 
+.cluster {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--cluster-space, var(--space-300));
+  justify-content: flex-start;
+  align-items: center;
+}
+
 .challenge-wrapper {
   --max-child-width: var(--max-width, 320px);
 
